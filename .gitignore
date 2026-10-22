@@ -1,0 +1,5 @@
+# tooling artifacts
+.v2c/
+.video_agent/
+out/
+.DS_Store
