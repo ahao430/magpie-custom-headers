@@ -1,0 +1,23 @@
+{
+  "name": "@magpie-community/custom-headers",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Per-request dynamic custom HTTP headers (git branch, project, package context) for requests magpie forwards",
+  "main": "./index.mjs",
+  "files": [
+    "index.mjs",
+    "lib",
+    "README.md",
+    "cases.json"
+  ],
+  "keywords": [
+    "magpie",
+    "opencode",
+    "headers",
+    "git"
+  ],
+  "license": "MIT",
+  "engines": {
+    "bun": ">=1.0"
+  }
+}
